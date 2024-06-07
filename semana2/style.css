@@ -1,0 +1,47 @@
+body{
+    border: solid red;
+    height: 18px;
+}
+
+article{
+    border: solid blue 50px;
+    border-radius: 18px;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    color: red;
+    background-color: yellow;
+    padding: 20px;
+    margin: auto;
+}
+ img{
+width: 200px;
+height: 150px;
+object-fit: contain;
+ }
+.seccion1{ 
+    width: 1200px;
+    height: 500px;
+    border: solid blue;
+    background-color: aqua;
+}
+
+.seccion2{ 
+    width: 800px;
+    height: 300px;
+    border: solid blue;
+    background-color: aqua;
+}
+
+.seccion3{ 
+    width: 500px;
+    height: 100px;
+    border: solid blue;
+    background-color: aqua;
+}
+.seccion4{ 
+    width: 200px;
+    height: 50px;
+    border: solid blue;
+    background-color: rgb(89, 247, 10);
+}
